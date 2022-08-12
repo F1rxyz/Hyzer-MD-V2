@@ -46,8 +46,8 @@ global.packname = 'StickerByFirxyz'
 global.author = `afterdark.code.blog`
 global.wm = 'FirxyzMD'
 global.watermark = wm
-global.media = 'https://telegra.ph/file/6129a084ac3e0986bf31c.jpg'
-global.instagram = 'https://instagram.com/sahrulwara_____'
+global.media = 'https://telegra.ph/file/6129a4ac3e0986bf31c.jpg'
+global.instagram = 'https://instagram.com/f1rxyz'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
